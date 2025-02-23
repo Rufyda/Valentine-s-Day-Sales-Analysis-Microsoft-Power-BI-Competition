@@ -1,0 +1,90 @@
+PurchaseID,Date,Item,Price,Gender,Age,MemberType,SearchedItems,SalesMade,TotalSales,Location,PaymentMethod,TimeOfDay
+1,2023-02-14,Rose Bouquet,25.99,Female,28,Gold,"Rose Bouquet, Chocolate Box",1,25.99,Urban,Credit Card,Afternoon
+2,2023-02-14,Chocolate Box,15.50,Male,34,Silver,"Chocolate Box, Teddy Bear",2,31.00,Suburban,Debit Card,Evening
+3,2023-02-14,Teddy Bear,20.00,Female,22,Bronze,"Teddy Bear, Rose Bouquet",1,20.00,Rural,Cash,Morning
+4,2023-02-14,Perfume,45.00,Male,40,Platinum,"Perfume, Rose Bouquet",1,45.00,Urban,Credit Card,Evening
+5,2023-02-14,Chocolate Box,15.50,Female,29,Gold,"Chocolate Box, Perfume",3,46.50,Suburban,Debit Card,Afternoon
+6,2023-02-14,Rose Bouquet,25.99,Male,35,Silver,"Rose Bouquet, Teddy Bear",1,25.99,Urban,Credit Card,Morning
+7,2023-02-14,Teddy Bear,20.00,Female,26,Bronze,"Teddy Bear, Chocolate Box",2,40.00,Rural,Cash,Evening
+8,2023-02-14,Perfume,45.00,Male,45,Platinum,"Perfume, Chocolate Box",1,45.00,Suburban,Credit Card,Afternoon
+9,2023-02-14,Chocolate Box,15.50,Female,31,Gold,"Chocolate Box, Rose Bouquet",4,62.00,Urban,Debit Card,Evening
+10,2023-02-14,Rose Bouquet,25.99,Male,38,Silver,"Rose Bouquet, Perfume",1,25.99,Rural,Cash,Morning
+11,2023-02-14,Teddy Bear,20.00,Female,24,Bronze,"Teddy Bear, Rose Bouquet",1,20.00,Suburban,Credit Card,Afternoon
+12,2023-02-14,Perfume,45.00,Male,50,Platinum,"Perfume, Teddy Bear",1,45.00,Urban,Debit Card,Evening
+13,2023-02-14,Chocolate Box,15.50,Female,27,Gold,"Chocolate Box, Perfume",2,31.00,Rural,Cash,Morning
+14,2023-02-14,Rose Bouquet,25.99,Male,33,Silver,"Rose Bouquet, Chocolate Box",1,25.99,Suburban,Credit Card,Afternoon
+15,2023-02-14,Teddy Bear,20.00,Female,30,Bronze,"Teddy Bear, Perfume",1,20.00,Urban,Debit Card,Evening
+16,2023-02-14,Perfume,45.00,Male,42,Platinum,"Perfume, Rose Bouquet",1,45.00,Rural,Cash,Morning
+17,2023-02-14,Chocolate Box,15.50,Female,25,Gold,"Chocolate Box, Teddy Bear",3,46.50,Suburban,Credit Card,Afternoon
+18,2023-02-14,Rose Bouquet,25.99,Male,37,Silver,"Rose Bouquet, Perfume",1,25.99,Urban,Debit Card,Evening
+19,2023-02-14,Teddy Bear,20.00,Female,23,Bronze,"Teddy Bear, Chocolate Box",2,40.00,Rural,Cash,Morning
+20,2023-02-14,Perfume,45.00,Male,48,Platinum,"Perfume, Chocolate Box",1,45.00,Suburban,Credit Card,Afternoon
+21,2023-02-14,Chocolate Box,15.50,Female,32,Gold,"Chocolate Box, Rose Bouquet",4,62.00,Urban,Debit Card,Evening
+22,2023-02-14,Rose Bouquet,25.99,Male,36,Silver,"Rose Bouquet, Teddy Bear",1,25.99,Rural,Cash,Morning
+23,2023-02-14,Teddy Bear,20.00,Female,29,Bronze,"Teddy Bear, Perfume",1,20.00,Suburban,Credit Card,Afternoon
+24,2023-02-14,Perfume,45.00,Male,44,Platinum,"Perfume, Rose Bouquet",1,45.00,Urban,Debit Card,Evening
+25,2023-02-14,Chocolate Box,15.50,Female,26,Gold,"Chocolate Box, Teddy Bear",2,31.00,Rural,Cash,Morning
+26,2023-02-14,Rose Bouquet,25.99,Male,39,Silver,"Rose Bouquet, Chocolate Box",1,25.99,Suburban,Credit Card,Afternoon
+27,2023-02-14,Teddy Bear,20.00,Female,31,Bronze,"Teddy Bear, Perfume",1,20.00,Urban,Debit Card,Evening
+28,2023-02-14,Perfume,45.00,Male,47,Platinum,"Perfume, Teddy Bear",1,45.00,Rural,Cash,Morning
+29,2023-02-14,Chocolate Box,15.50,Female,28,Gold,"Chocolate Box, Rose Bouquet",3,46.50,Suburban,Credit Card,Afternoon
+30,2023-02-14,Rose Bouquet,25.99,Male,41,Silver,"Rose Bouquet, Perfume",1,25.99,Urban,Debit Card,Evening
+31,2023-02-14,Teddy Bear,20.00,Female,27,Bronze,"Teddy Bear, Chocolate Box",2,40.00,Rural,Cash,Morning
+32,2023-02-14,Perfume,45.00,Male,49,Platinum,"Perfume, Chocolate Box",1,45.00,Suburban,Credit Card,Afternoon
+33,2023-02-14,Chocolate Box,15.50,Female,30,Gold,"Chocolate Box, Teddy Bear",4,62.00,Urban,Debit Card,Evening
+34,2023-02-14,Rose Bouquet,25.99,Male,43,Silver,"Rose Bouquet, Perfume",1,25.99,Rural,Cash,Morning
+35,2023-02-14,Teddy Bear,20.00,Female,25,Bronze,"Teddy Bear, Rose Bouquet",1,20.00,Suburban,Credit Card,Afternoon
+36,2023-02-14,Perfume,45.00,Male,46,Platinum,"Perfume, Rose Bouquet",1,45.00,Urban,Debit Card,Evening
+37,2023-02-14,Chocolate Box,15.50,Female,29,Gold,"Chocolate Box, Perfume",2,31.00,Rural,Cash,Morning
+38,2023-02-14,Rose Bouquet,25.99,Male,40,Silver,"Rose Bouquet, Chocolate Box",1,25.99,Suburban,Credit Card,Afternoon
+39,2023-02-14,Teddy Bear,20.00,Female,32,Bronze,"Teddy Bear, Perfume",1,20.00,Urban,Debit Card,Evening
+40,2023-02-14,Perfume,45.00,Male,50,Platinum,"Perfume, Teddy Bear",1,45.00,Rural,Cash,Morning
+41,2023-02-14,Chocolate Box,15.50,Female,33,Gold,"Chocolate Box, Rose Bouquet",3,46.50,Suburban,Credit Card,Afternoon
+42,2023-02-14,Rose Bouquet,25.99,Male,45,Silver,"Rose Bouquet, Perfume",1,25.99,Urban,Debit Card,Evening
+43,2023-02-14,Teddy Bear,20.00,Female,28,Bronze,"Teddy Bear, Chocolate Box",2,40.00,Rural,Cash,Morning
+44,2023-02-14,Perfume,45.00,Male,48,Platinum,"Perfume, Chocolate Box",1,45.00,Suburban,Credit Card,Afternoon
+45,2023-02-14,Chocolate Box,15.50,Female,34,Gold,"Chocolate Box, Teddy Bear",4,62.00,Urban,Debit Card,Evening
+46,2023-02-14,Rose Bouquet,25.99,Male,42,Silver,"Rose Bouquet, Perfume",1,25.99,Rural,Cash,Morning
+47,2023-02-14,Teddy Bear,20.00,Female,26,Bronze,"Teddy Bear, Rose Bouquet",1,20.00,Suburban,Credit Card,Afternoon
+48,2023-02-14,Perfume,45.00,Male,47,Platinum,"Perfume, Rose Bouquet",1,45.00,Urban,Debit Card,Evening
+49,2023-02-14,Chocolate Box,15.50,Female,35,Gold,"Chocolate Box, Perfume",2,31.00,Rural,Cash,Morning
+50,2023-02-14,Rose Bouquet,25.99,Male,44,Silver,"Rose Bouquet, Chocolate Box",1,25.99,Suburban,Credit Card,Afternoon
+51,2023-02-14,Teddy Bear,20.00,Female,30,Bronze,"Teddy Bear, Perfume",1,20.00,Urban,Debit Card,Evening
+52,2023-02-14,Perfume,45.00,Male,49,Platinum,"Perfume, Teddy Bear",1,45.00,Rural,Cash,Morning
+53,2023-02-14,Chocolate Box,15.50,Female,36,Gold,"Chocolate Box, Rose Bouquet",3,46.50,Suburban,Credit Card,Afternoon
+54,2023-02-14,Rose Bouquet,25.99,Male,43,Silver,"Rose Bouquet, Perfume",1,25.99,Urban,Debit Card,Evening
+55,2023-02-14,Teddy Bear,20.00,Female,27,Bronze,"Teddy Bear, Chocolate Box",2,40.00,Rural,Cash,Morning
+56,2023-02-14,Perfume,45.00,Male,50,Platinum,"Perfume, Chocolate Box",1,45.00,Suburban,Credit Card,Afternoon
+57,2023-02-14,Chocolate Box,15.50,Female,37,Gold,"Chocolate Box, Teddy Bear",4,62.00,Urban,Debit Card,Evening
+58,2023-02-14,Rose Bouquet,25.99,Male,45,Silver,"Rose Bouquet, Perfume",1,25.99,Rural,Cash,Morning
+59,2023-02-14,Teddy Bear,20.00,Female,28,Bronze,"Teddy Bear, Rose Bouquet",1,20.00,Suburban,Credit Card,Afternoon
+60,2023-02-14,Perfume,45.00,Male,48,Platinum,"Perfume, Rose Bouquet",1,45.00,Urban,Debit Card,Evening
+61,2023-02-14,Chocolate Box,15.50,Female,38,Gold,"Chocolate Box, Perfume",2,31.00,Rural,Cash,Morning
+62,2023-02-14,Rose Bouquet,25.99,Male,46,Silver,"Rose Bouquet, Chocolate Box",1,25.99,Suburban,Credit Card,Afternoon
+63,2023-02-14,Teddy Bear,20.00,Female,29,Bronze,"Teddy Bear, Perfume",1,20.00,Urban,Debit Card,Evening
+64,2023-02-14,Perfume,45.00,Male,49,Platinum,"Perfume, Teddy Bear",1,45.00,Rural,Cash,Morning
+65,2023-02-14,Chocolate Box,15.50,Female,39,Gold,"Chocolate Box, Rose Bouquet",3,46.50,Suburban,Credit Card,Afternoon
+66,2023-02-14,Rose Bouquet,25.99,Male,47,Silver,"Rose Bouquet, Perfume",1,25.99,Urban,Debit Card,Evening
+67,2023-02-14,Teddy Bear,20.00,Female,30,Bronze,"Teddy Bear, Chocolate Box",2,40.00,Rural,Cash,Morning
+68,2023-02-14,Perfume,45.00,Male,50,Platinum,"Perfume, Chocolate Box",1,45.00,Suburban,Credit Card,Afternoon
+69,2023-02-14,Chocolate Box,15.50,Female,40,Gold,"Chocolate Box, Teddy Bear",4,62.00,Urban,Debit Card,Evening
+70,2023-02-14,Rose Bouquet,25.99,Male,48,Silver,"Rose Bouquet, Perfume",1,25.99,Rural,Cash,Morning
+71,2023-02-14,Teddy Bear,20.00,Female,31,Bronze,"Teddy Bear, Rose Bouquet",1,20.00,Suburban,Credit Card,Afternoon
+72,2023-02-14,Perfume,45.00,Male,49,Platinum,"Perfume, Rose Bouquet",1,45.00,Urban,Debit Card,Evening
+73,2023-02-14,Chocolate Box,15.50,Female,41,Gold,"Chocolate Box, Perfume",2,31.00,Rural,Cash,Morning
+74,2023-02-14,Rose Bouquet,25.99,Male,50,Silver,"Rose Bouquet, Chocolate Box",1,25.99,Suburban,Credit Card,Afternoon
+75,2023-02-14,Teddy Bear,20.00,Female,32,Bronze,"Teddy Bear, Perfume",1,20.00,Urban,Debit Card,Evening
+76,2023-02-14,Perfume,45.00,Male,51,Platinum,"Perfume, Teddy Bear",1,45.00,Rural,Cash,Morning
+77,2023-02-14,Chocolate Box,15.50,Female,42,Gold,"Chocolate Box, Rose Bouquet",3,46.50,Suburban,Credit Card,Afternoon
+78,2023-02-14,Rose Bouquet,25.99,Male,52,Silver,"Rose Bouquet, Perfume",1,25.99,Urban,Debit Card,Evening
+79,2023-02-14,Teddy Bear,20.00,Female,33,Bronze,"Teddy Bear, Chocolate Box",2,40.00,Rural,Cash,Morning
+80,2023-02-14,Perfume,45.00,Male,53,Platinum,"Perfume, Chocolate Box",1,45.00,Suburban,Credit Card,Afternoon
+81,2023-02-14,Chocolate Box,15.50,Female,43,Gold,"Chocolate Box, Teddy Bear",4,62.00,Urban,Debit Card,Evening
+82,2023-02-14,Rose Bouquet,25.99,Male,54,Silver,"Rose Bouquet, Perfume",1,25.99,Rural,Cash,Morning
+83,2023-02-14,Teddy Bear,20.00,Female,34,Bronze,"Teddy Bear, Rose Bouquet",1,20.00,Suburban,Credit Card,Afternoon
+84,2023-02-14,Perfume,45.00,Male,55,Platinum,"Perfume, Rose Bouquet",1,45.00,Urban,Debit Card,Evening
+85,2023-02-14,Chocolate Box,15.50,Female,44,Gold,"Chocolate Box, Perfume",2,31.00,Rural,Cash,Morning
+86,2023-02-14,Rose Bouquet,25.99,Male,56,Silver,"Rose Bouquet, Chocolate Box",1,25.99,Suburban,Credit Card,Afternoon
+87,2023-02-14,Teddy Bear,20.00,Female,35,Bronze,"Teddy Bear, Perfume",1,20.00,Urban,Debit Card,Evening
+88,2023-02-14,Perfume,45.00,Male,57,Platinum,"Perfume, Teddy Bear",1,45.00,Rural,Cash,Morning
+89,2023-02-14,Chocolate Box,15.50,Female,45,Gold,,,89,2023-02-14,Chocolate Box,15.50
